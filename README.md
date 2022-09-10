@@ -6,10 +6,10 @@
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 
 기능
